@@ -10,6 +10,7 @@ dependencies = [
     "matplotlib",
     "scikit-learn",
     "cvxpy",
+    "statsmodels",
 ]
 
 [build-system]
